@@ -13,6 +13,7 @@ namespace Assignment_5.Classes
     /// Contains a list for all user's created for the game
     /// Will validate and throw errors if user information is incorrect.
     /// Contains the stats of the user to be updated or returned from the User class
+    /// 
     /// </summary>
     public class clsUserManage
     {
