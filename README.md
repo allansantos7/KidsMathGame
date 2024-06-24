@@ -3,10 +3,11 @@
 <h1>Math Game for Kids</h1>
 
 <h3>Description:</h3>
-
+Simple Math Game for Kids with a Star Wars theme.
+The user to enter their information (Name and Age), choose the game type (Add, Subtract, Multiply, and Divide), and begin playing the game.
 <h3>Goals:</h3>
 
-When the game first starts the main menu window will be displayed.  This window will allow the user to enter their information, choose the game type, and begin playing the game.  The user’s information will consist of their name and age.  The game type options the user may choose from are Add, Subtract, Multiply, and Divide.  These options must be displayed using radio buttons.  The window will also have a “Begin Game” button.  When the user clicks this button, the entered information must be validated.  If the name is blank, or the age is not a valid number between 3 and 10, or a game type has not been selected, then a red error label describing what the user needs to fix will be displayed.  For instance, if the user didn’t enter a name, then a label with red text will appear telling the user “Please enter your name to continue”.
+When the user clicks this button, the entered information must be validated.  If the name is blank, or the age is not a valid number between 3 and 10, or a game type has not been selected, then a red error label describing what the user needs to fix will be displayed.  For instance, if the user didn’t enter a name, then a label with red text will appear telling the user “Please enter your name to continue”.
 
 If the user’s entered information is valid, then the main menu window is hidden and the game window displayed.  As the game is being played the user should have the option to cancel the current game and return to the main menu.  The game will consist of ten randomly generated questions.  The random numbers should be kept between 1 and 10 so that the game is easy to play for a young child.  So, based on the game type, each question must be randomly generated.  For instance, if the game is addition, then two random numbers will need to be generated (between 1 and 10) for each question and displayed to the user. 
 
