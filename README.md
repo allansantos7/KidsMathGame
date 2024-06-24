@@ -1,3 +1,5 @@
+![image](https://github.com/allansantos7/KidsMathGame/assets/83974830/29a9e247-2fd5-49d4-b81b-1725003118af)
+
 <h1>Math Game for Kids</h1>
 
 <h3>Description:</h3>
