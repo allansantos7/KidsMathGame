@@ -4,7 +4,7 @@
 
 <h3>Description:</h3>
 Simple Math Game for Kids with a Star Wars theme. </br>
-The user to enter their information (Name and Age), choose the game type (Add, Subtract, Multiply, and Divide), and begin playing the game.
+The user will enter their information (Name and Age), choose the game type (Add, Subtract, Multiply, and Divide), and begin playing the game.
 The game will consist of ten randomly generated questions.
 By entering the answer to the question, the user's score increases with a final tally at the end.
 </br>
